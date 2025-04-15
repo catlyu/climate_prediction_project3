@@ -1,5 +1,13 @@
 # **Project 3: Machine Learning Reconstruction of Surface Ocean pCO₂**
 
+Team 3
+
+We are planning to analyze the causes of bias in each ESM model, by studying
+- variability of ensembles within each ESM
+- seasonality
+- extreme values
+- ...
+<!--
 This project reproduces and extends portions of the analysis presented by Gloege et al. (2020) and Heimdal et al. (2024), using machine learning to reconstruct surface ocean partial pressure of CO₂ (pCO₂) and evaluate reconstruction performance under sparse observational coverage.
 
 The notebook implements a **pCO₂-Residual** approach with an **XGBoost** model to improve upon standard pCO₂ reconstructions by isolating and removing the temperature-driven signal prior to machine learning regression. It also evaluates performance using data from the **Large Ensemble Testbed (LET)**.
@@ -53,4 +61,4 @@ We encourage collaborative version control using GitHub. If working in a team, p
 
 You may find [this GitHub tutorial](https://github.com/leap-stc/LEAPCourse-Climate-Pred-Challenges/blob/main/Tutorials/Github-Tutorial.md) helpful for getting started.
 
-
+-->
