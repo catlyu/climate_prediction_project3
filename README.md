@@ -2,6 +2,8 @@
 
 Team 3
 
+**Please find the contribution statement in notebooks/README.md**
+
 Our study:
 1. Performs member-based analysis on **XGBoost-based pCO2-Residual reconstruction** across 3 ESM model testbeds - ACCESS, CanESM, MPI-ESM
 2. Evaluates reconstruction performance using a Large Ensemble Testbed, with **RMSE, bias and correlation metrics** and suggests improvements to our pCO2-residual reconstruction ability.
