@@ -17,6 +17,9 @@ This folder contains notebooks and resources for **Project 3**, where we reconst
   - Cathy Lyu:
  
   - Raphie:
+    - Evaluated potential causes for the unusually high RMSE in the West coast of South America.
+    - Partially explored outliers in biases across testbed models to evaluate individual testbed model performance and improve the accuracy of overall testbed.
+    - Intitiated brainstorming of initial project ideas.
  
   - Kefeng Shi:
     - Compose the 7.1 biotic part of the notebook, made an adjustment in the XGBoost model to include a "Blended Model" to adjust a weight on Chl-a variable and adjust reconstruction process.
