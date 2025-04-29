@@ -18,4 +18,7 @@ This folder contains notebooks and resources for **Project 3**, where we reconst
  
   - Raphie:
  
-  - Kelvin: 
+  - Kefeng Shi:
+  - Compose the 7.1 biotic part of the notebook, made an adjustment in the XGBoost model to include a "Blended Model" to adjust a weight on Chl-a variable and adjust reconstruction process.
+  - In the scenario of changed input, mapping the bias distribution by ESMs, and tried to do a time series analysis to see if the blended feature mimic the model truth.
+  - Provide some climate science info and logic based on my own background.
