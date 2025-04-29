@@ -2,12 +2,14 @@
 
 Team 3
 
-We are planning to analyze the causes of bias in each ESM model, by studying
-- variability of ensembles within each ESM
-- seasonality
-- extreme values
-- ...
-<!--
+Our study:
+1. Performs member-based analysis on **XGBoost-based pCO2-Residual reconstruction** across 3 ESM model testbeds - ACCESS, CanESM, MPI-ESM
+2. Evaluates reconstruction performance using a Large Ensemble Testbed, with **RMSE, bias and correlation metrics** and suggests improvements to our pCO2-residual reconstruction ability.
+3. Performs deeper analysis on the spatial and seasonal structure of model bias
+4. Finds the largest sources of errors in distinct geographic errors and attempts to explain the dynamical impact of the upwelling in coastal regions: __abiotic__
+5. Evaluates Chlorophyll as an important factor in the residual pCO2 story: __biotic__
+
+
 This project reproduces and extends portions of the analysis presented by Gloege et al. (2020) and Heimdal et al. (2024), using machine learning to reconstruct surface ocean partial pressure of CO₂ (pCO₂) and evaluate reconstruction performance under sparse observational coverage.
 
 The notebook implements a **pCO₂-Residual** approach with an **XGBoost** model to improve upon standard pCO₂ reconstructions by isolating and removing the temperature-driven signal prior to machine learning regression. It also evaluates performance using data from the **Large Ensemble Testbed (LET)**.
