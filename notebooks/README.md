@@ -14,7 +14,9 @@ This folder contains notebooks and resources for **Project 3**, where we reconst
     - Highlighted the role of seasonal biases—especially during DJF and JJA—in shaping regional reconstruction accuracy.
     - Additionally, finalized the compilation of the full data story document, synthesizing findings into a cohesive narrative.
  
-  - Cathy Lyu:
+  - Catherine Lyu:
+    - Conducted an evaluation of seasonal bias structures across ESMs, using gridded histograms and statistical summaries (mean, standard deviation, skewness) to characterize how reconstruction errors vary by model and season.
+    - Performed a regional analysis of the Benguela Upwelling System (BUS) and quantified the mean reconstruction bias across ensemble members and highlighting model-specific tendencies toward cold bias.
  
   - Raphie:
     - Evaluated potential causes for the unusually high RMSE in the West coast of South America.
